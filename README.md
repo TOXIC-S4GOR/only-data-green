@@ -30,3 +30,7 @@ pip install bs4
 
 git clone https://github.com/TOXIC-S4GOR/only-data-green
 
+
+cd only-data-green
+
+python naw_ok_id.py
